@@ -1,0 +1,39 @@
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-10">
+        <input type="text" [(ngModel)]="message"  style="width:100%" placeholder="Write Alert Message">
+      </div>
+
+      <div class="col-md-2">
+        <button class="btn btn-primary" (click)="onCreateAlert()">
+        Send Alert
+        </button>
+      </div>
+    </div>
+
+    <div class="report-container">
+        <div class="row">
+            <div class="col-xs-2 p-0 text-left">
+                <strong class="fs-2">ALERT ID </strong>
+              </div>
+              <div class="col-xs-5">
+                <strong class="fs-12">MESSAGE</strong>
+              </div>
+              <div class="col-xs-3 p-0">
+                <strong class="fs-12">USER</strong>
+              </div>
+        </div>
+        <div class="row" *ngFor="let alert of alerts">
+            <hr>
+            <div class="col-xs-2 p-0 text-left">
+              {{alert.Id}}
+            </div>
+            <div class="col-xs-5 p-0">
+              {{alert.message}}
+            </div>
+            <div class="col-xs-3 p-0">
+                TestUser
+            </div>
+        </div>
+    </div>
+      
