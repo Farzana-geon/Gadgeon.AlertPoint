@@ -12,4 +12,13 @@ export class HeaderComponent implements OnInit {
   ngOnInit() {
   }
   user:string = "TestUser";
+  toggleMenu = false;
+  onToggleMenu(){
+    if(this.toggleMenu == true){
+      this.toggleMenu=false;
+    }
+    else{
+      this.toggleMenu=true;
+    }
+  }
 }
