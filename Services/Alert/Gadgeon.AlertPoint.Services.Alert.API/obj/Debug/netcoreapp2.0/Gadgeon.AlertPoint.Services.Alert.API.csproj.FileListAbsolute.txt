@@ -1,0 +1,12 @@
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\obj\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Services.Alert.API.csproj.CoreCompileInputs.cache
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\obj\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Services.Alert.API.AssemblyInfoInputs.cache
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\obj\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Services.Alert.API.AssemblyInfo.cs
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\bin\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Services.Alert.API.deps.json
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\bin\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Services.Alert.API.runtimeconfig.json
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\bin\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Services.Alert.API.runtimeconfig.dev.json
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\bin\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Services.Alert.API.dll
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\bin\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Services.Alert.API.pdb
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\bin\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Utility.dll
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\bin\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Utility.pdb
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\obj\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Services.Alert.API.dll
+e:\lab\gadgeonRepository\Gadgeon.AlertPoint\Services\Alert\Gadgeon.AlertPoint.Services.Alert.API\obj\Debug\netcoreapp2.0\Gadgeon.AlertPoint.Services.Alert.API.pdb
