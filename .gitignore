@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Gadgeon.AlertPoint.Alert.API/bin/Debug/netcoreapp2.0
+/Gadgeon.AlertPoint.Services.Infrastructure/bin/Debug/netcoreapp2.0
+/Gadgeon.AlertPoint.Utility/bin/Debug/netcoreapp2.0
+/Gadgeon.AlertPoint.Utility/obj
